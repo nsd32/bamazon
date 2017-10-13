@@ -27,4 +27,4 @@ Supervisors have two options:
 ```
 
 ## Video
-<a href="https://drive.google.com/drive/folders/0B90cuJa_qACCVkY1V2JNc3djNm8">Tutorial Video</a>
+<a href="https://drive.google.com/drive/folders/0B90cuJa_qACCVkY1V2JNc3djNm8">Demo</a>
