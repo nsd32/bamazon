@@ -5,25 +5,25 @@ This application has options for three different user types:
 * Manager
 * Supervisor
 
-##Customer
+## Customer
 Customers can order products from the Bamazon store.
 
-##Manager
+## Manager
 Managers have several options:
 * View Products for Sale
 * View low inventory items
 * Add to inventory
 * Add new products
 
-##Supervisor
+## Supervisor
 Supervisors have two options:
 * View sales by department
 * Create new departments
 
-##How to run the program
+## How to run the program
 ```
 
 
 ```
 
-#Video
+## Video
