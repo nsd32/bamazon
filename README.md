@@ -1,6 +1,6 @@
 # bamazon
 
-This application has options for three different user types: 
+This CLI application mimics an ecommerce site like Amazon on a much smaller scale. Inventory on the back end is handled by MySQL. Three different types of users can use this application: 
 * Customer
 * Manager
 * Supervisor
