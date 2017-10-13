@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productsDBConnection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsd32/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsd32/bamazon/issues"
+  },
+  "homepage": "https://github.com/nsd32/bamazon#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
