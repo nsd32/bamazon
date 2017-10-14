@@ -22,7 +22,12 @@ Supervisors have two options:
 
 ## How to run the program
 ```
-
+* Git Clone the repository
+* Navigate to the folder where the repository exists using Git Bash or Terminal
+* Run the command npm install to download the required dependencies
+* Run the command node bamazonCustomer.js to run the customer program
+* Run the command node bamazonManager.js to run the manager program
+* Run the command node bamazonSupervisor.js to run the supervisor program
 
 ```
 
