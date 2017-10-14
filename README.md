@@ -28,7 +28,6 @@ Supervisors have two options:
 * Run the command node bamazonCustomer.js to run the customer program
 * Run the command node bamazonManager.js to run the manager program
 * Run the command node bamazonSupervisor.js to run the supervisor program
-
 ```
 
 ## Video
